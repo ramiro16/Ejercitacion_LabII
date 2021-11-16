@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "655ch5vQkBlaKY1Is4NnJUejc+E9ZtExPQiSxmh55hgJswq9sM/4yjqe2Qqr9Qyl3Lk1/1W/WCvu6Dl5V5HrrA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\I02_ControlDeAduana\\PruebasUnitarias.csproj",
+  "dgSpecHash": "TEZo3hMARVhuSrPkLEVNEl3uD+7d9/BgLrD/U2LGTxrhOpJ4ekPXDskuY7H55YmsR39fMcxPthMY0slDxoQyCA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\I02_ControlDeAduana\\PruebasUnitarias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -93,5 +93,15 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

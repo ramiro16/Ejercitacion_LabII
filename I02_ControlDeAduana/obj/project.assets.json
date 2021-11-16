@@ -1660,16 +1660,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "Entidades.ControlDeAduana/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Entidades.ControlDeAduana.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entidades.ControlDeAduana.dll": {}
-        }
       }
     }
   },
@@ -6044,16 +6034,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "Entidades.ControlDeAduana/1.0.0": {
-      "type": "project",
-      "path": "../Entidades.ControlDeAduana/Entidades.ControlDeAduana.csproj",
-      "msbuildProject": "../Entidades.ControlDeAduana/Entidades.ControlDeAduana.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Entidades.ControlDeAduana >= 1.0.0",
+      "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj",
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
@@ -6067,11 +6052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\I02_ControlDeAduana\\PruebasUnitarias.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\I02_ControlDeAduana\\PruebasUnitarias.csproj",
       "projectName": "PruebasUnitarias",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\I02_ControlDeAduana\\PruebasUnitarias.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\I02_ControlDeAduana\\PruebasUnitarias.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\I02_ControlDeAduana\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\I02_ControlDeAduana\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6091,8 +6076,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\admin\\source\\repos\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj"
+            "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj"
             }
           }
         }
@@ -6142,5 +6127,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\admin\\Desktop\\Rama\\Initi de Repor\\Ejercitacion_LabII\\Entidades.ControlDeAduana\\Entidades.ControlDeAduana.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

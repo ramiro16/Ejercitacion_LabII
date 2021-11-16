@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola.ControlDeAduana/1.0.0": {
+        "dependencies": {
+          "Entidades.ControlDeAduana": "1.0.0"
+        },
+        "runtime": {
+          "Consola.ControlDeAduana.dll": {}
+        }
+      },
+      "Entidades.ControlDeAduana/1.0.0": {
+        "runtime": {
+          "Entidades.ControlDeAduana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola.ControlDeAduana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades.ControlDeAduana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\bin\Debug\net5.0\Entidades.ControlDeAduana.deps.json
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\bin\Debug\net5.0\Entidades.ControlDeAduana.dll
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\bin\Debug\net5.0\ref\Entidades.ControlDeAduana.dll
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\bin\Debug\net5.0\Entidades.ControlDeAduana.pdb
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\Entidades.ControlDeAduana.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\Entidades.ControlDeAduana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\Entidades.ControlDeAduana.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\Entidades.ControlDeAduana.AssemblyInfo.cs
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\Entidades.ControlDeAduana.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\Entidades.ControlDeAduana.dll
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\ref\Entidades.ControlDeAduana.dll
+C:\Users\admin\source\repos\Entidades.ControlDeAduana\obj\Debug\net5.0\Entidades.ControlDeAduana.pdb
